@@ -1,6 +1,6 @@
 body {
   background: rgb(45, 235, 241);
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  font-family: 'poppins', sans-serif;
 }
 .wrapper {
   position: fixed;
@@ -18,8 +18,7 @@ body {
 .form__container input {
   width: 350px; 
   height: 40px; 
-  margin: 10px 0;
-  font-family: trebuchet ms, sans-serif;   
+  margin: 10px 0;  
   box-sizing: border-box;
   border: 1px solid #a3a3a3;  
   padding-left: 10px;
@@ -30,7 +29,6 @@ body {
   width: 350px; 
   height: 100px;
   margin: 10px 0;
-  font-family: trebuchet ms, sans-serif;   
   box-sizing: border-box;
   border: 1px solid #a3a3a3;  
   padding: 10px 0px 0px 10px;
